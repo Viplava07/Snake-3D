@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/bomsy/3dsnakegame#readme",
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-connect": "^4.2.0"
   }
 }
